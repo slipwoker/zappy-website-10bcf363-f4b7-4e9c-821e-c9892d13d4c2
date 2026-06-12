@@ -2,13 +2,13 @@
 
 RAYME is a raw, emotionally-driven wellness-fashion brand that merges streetwear aesthetics with mental health awareness and self-love. The brand speaks to those who feel different, unseen, or unheard — offering clothing and small meaningful products like pins and affirmation items as wearable emotional expression. The visual identity is dark and minimalist with striking neon accents (pink and yellow), evoking authenticity, depth, and non-judgmental support. The brand tone is honest and grounded — not toxic positivity, but real emotional resonance — inspired by brands like The Mayfair Group but more raw and less commercial.
 
-Source: https://rayme-10bcf363.zappy5.app
+Source: https://example.com
 
 ---
 
 ## לבגדים שמבינים אותך — RAYME
 
-URL: https://rayme-10bcf363.zappy5.app
+URL: https://example.com
 Description: ביגוד רחוב רגשי עם נשמה. חולצות, סיכות ופריטי העצמה שמדברים אמת פנימית, אופנת רחוב אפלה עם נגיעות ניאון צעקניות. היכנסו עכשיו ללבוש את מה שאתם מרגישים.
 
 לבגדים שמבינים אותך — RAYME
@@ -537,7 +537,7 @@ RAYME – אופנה פוגשת רווחה. מותג פרימיום שמחבר �
 
 ## מדיניות פרטיות
 
-URL: https://rayme-10bcf363.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -775,7 +775,7 @@ RAYME – אופנה פוגשת רווחה. מותג פרימיום שמחבר �
 
 ## הצהרת נגישות
 
-URL: https://rayme-10bcf363.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1022,7 +1022,7 @@ RAYME – אופנה פוגשת רווחה. מותג פרימיום שמחבר �
 
 ## תנאי שימוש
 
-URL: https://rayme-10bcf363.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
