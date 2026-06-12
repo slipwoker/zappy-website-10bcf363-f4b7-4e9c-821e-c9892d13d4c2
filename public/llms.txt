@@ -1,0 +1,67 @@
+# RAYME — Generative Engine Optimization Map
+
+> RAYME is a raw, emotionally-driven wellness-fashion brand that merges streetwear aesthetics with mental health awareness and self-love. The brand speaks to those who feel different, unseen, or unheard — offering clothing and small meaningful products like pins and affirmation items as wearable emotional expression. The visual identity is dark and minimalist with striking neon accents (pink and yellow), evoking authenticity, depth, and non-judgmental support. The brand tone is honest and grounded — not toxic positivity, but real emotional resonance — inspired by brands like The Mayfair Group but more raw and less commercial.
+
+---
+
+## Pages
+
+### בית
+https://rayme-10bcf363.zappy5.app
+ביגוד רחוב רגשי עם נשמה. חולצות, סיכות ופריטי העצמה שמדברים אמת פנימית, אופנת רחוב אפלה עם נגיעות ניאון צעקניות. היכנסו עכשיו ללבוש את מה שאתם מרגישים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://rayme-10bcf363.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://rayme-10bcf363.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://rayme-10bcf363.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://rayme-10bcf363.zappy5.app
+- Endpoint: https://rayme-10bcf363.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About RAYME
+RAYME is a raw, emotionally-driven wellness-fashion brand that merges streetwear aesthetics with mental health awareness and self-love. The brand speaks to those who feel different, unseen, or unheard — offering clothing and small meaningful products like pins and affirmation items as wearable emotional expression. The visual identity is dark and minimalist with striking neon accents (pink and yellow), evoking authenticity, depth, and non-judgmental support. The brand tone is honest and grounded — not toxic positivity, but real emotional resonance — inspired by brands like The Mayfair Group but more raw and less commercial.
+
+## Target Audience
+- People who feel unseen, unheard, or different; those focused on self-love, emotional support, and mental health awareness
+- קולות לא נראים
+- אופנתיות מודעות
+- תומכי טיפוח עצמי
+
+## Industry
+Fashion & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://rayme-10bcf363.zappy5.app/sitemap.xml
+- Robots: https://rayme-10bcf363.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://rayme-10bcf363.zappy5.app/llms-full.txt
